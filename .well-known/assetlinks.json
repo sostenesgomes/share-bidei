@@ -1,0 +1,14 @@
+[
+   {
+      "relation":[
+         "delegate_permission/common.handle_all_urls"
+      ],
+      "target":{
+         "namespace":"android_app",
+         "package_name":"br.com.dryve.app",
+         "sha256_cert_fingerprints":[
+            "98:BF:34:32:EE:F5:7F:D0:8B:25:18:47:CA:1C:68:A0:58:66:AA:E2:C4:D3:2B:7F:61:F1:B9:87:B6:1C:93:64"
+         ]
+      }
+   }
+]
