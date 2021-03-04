@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "65QBY7X4MP.br.com.dryve.app",
-                "paths": [ "/dryve-admin"]
+                "paths": [ "*"]
             }
         ]
     }
